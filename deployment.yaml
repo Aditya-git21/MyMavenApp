@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: labmaven
-        image: amansanill/mymaven
+        image: aditya8050/newimg2
         ports:
         - containerPort: 8080
